@@ -1,0 +1,16 @@
+body {background-color: ghostwhite;}
+
+H1 {background-color: mistyrose;}
+H2 {
+    background-color: powderblue; 
+    font-size: 200%; 
+    color: black; 
+    padding:10px 1px;
+   }
+.button {
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    Font-size:18px;
+    }
